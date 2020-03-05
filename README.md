@@ -1,8 +1,8 @@
-# 東京都 新型コロナウイルス対策サイト
+# 北海道 新型コロナウイルスまとめサイト
 
 ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
 
-![東京都 新型コロナウイルス対策サイト](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)
+![東京都 新型コロナウイルス対策サイト](https://user-images.githubusercontent.com/11631697/75980865-a3d0fd80-5f26-11ea-9416-fa1c0b6d52c2.png)
 
 
 ## How to Contribute / 貢献の仕方
