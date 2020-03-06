@@ -20,7 +20,7 @@ module.exports = {
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: ' 新型コロナウイルス対策サイト'
+        content: '北海道 新型コロナウイルス対策サイト'
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
