@@ -2,7 +2,9 @@
 
 ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
 
-<img src="https://user-images.githubusercontent.com/11631697/75980865-a3d0fd80-5f26-11ea-9416-fa1c0b6d52c2.png" width="500">
+<img src="resources/illust_19vs39_1.jpg" width="700">
+
+Illustration by [@KITOTAN](https://twitter.com/LITTLEKIT)
 
 ## Goal
 東京都庁による[新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)の北海道版をつくるべや
