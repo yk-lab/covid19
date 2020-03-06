@@ -73,7 +73,7 @@
     "The latest updates": "都内の最新感染動向",
     "If you have any symptoms": "新型コロナウイルス感染症が心配なときに",
     "for Families with children": "お子様をお持ちの皆様へ",
-    "for Citizens": "都民の皆様へ",
+    "for Citizens": "道民の皆様へ",
     "for Enterprises and Employees": "企業の皆様・はたらく皆様へ",
     "Official statements from Task Force": "東京都新型コロナウイルス感染症対策本部報",
     "Cancelled public events": "【東京都主催等】中止または延期するイベント・説明会等",
@@ -119,7 +119,7 @@ export default {
         {
           icon: 'mdi-account-multiple',
           title: this.$t('for Citizens'),
-          link: 'https://www.metro.tokyo.lg.jp/tosei/tosei/news/2019-ncov.html'
+          link: 'http://www.pref.hokkaido.lg.jp/ss/tkk/singatakoronahaien.htm'
         },
         {
           icon: 'mdi-domain',
