@@ -77,7 +77,7 @@
     "for Enterprises and Employees": "企業の皆様・はたらく皆様へ",
     "Official statements from Task Force": "北海道感染症危機管理対策本部会議",
     "Cancelled public events": "【東京都主催等】中止または延期するイベント・説明会等",
-    "Government official website": "東京都公式ホームページ",
+    "Government official website": "北海道公式ホームページ",
     "Message from Governor Suzuki": "知事からのメッセージ",
     "About us": "当サイトについて"
   }
@@ -148,7 +148,7 @@ export default {
         },
         {
           title: this.$t('Government official website'),
-          link: 'https://www.metro.tokyo.lg.jp/',
+          link: 'http://www.pref.hokkaido.lg.jp/index.htm',
           divider: true
         }
       ]
