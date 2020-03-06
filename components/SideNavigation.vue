@@ -76,7 +76,6 @@
     "for Citizens": "道民の皆様へ",
     "for Enterprises and Employees": "企業の皆様・はたらく皆様へ",
     "Official statements from Task Force": "北海道感染症危機管理対策本部会議",
-    "Cancelled public events": "【東京都主催等】中止または延期するイベント・説明会等",
     "Government official website": "北海道公式ホームページ",
     "Message from Governor Suzuki": "知事からのメッセージ",
     "About us": "当サイトについて"
@@ -132,11 +131,13 @@ export default {
           link:
             'http://www.pref.hokkaido.lg.jp/hf/kth/kak/singatakoronahaien.htm#対策本部'
         },
-        {
-          title: this.$t('Cancelled public events'),
-          link:
-            'https://www.seisakukikaku.metro.tokyo.lg.jp/information/event02.html'
-        },
+        // 【東京都主催等】中止または延期するイベント・説明会等
+        // 道にまとまった情報がないので一旦コメントアウト
+        // {
+        //   title: this.$t('Cancelled public events'),
+        //   link:
+        //     'https://www.seisakukikaku.metro.tokyo.lg.jp/information/event02.html'
+        // },
         {
           title: this.$t('Message from Governor Suzuki'),
           link:
