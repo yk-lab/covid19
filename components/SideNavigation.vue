@@ -78,7 +78,7 @@
     "Official statements from Task Force": "北海道感染症危機管理対策本部会議",
     "Cancelled public events": "【東京都主催等】中止または延期するイベント・説明会等",
     "Government official website": "東京都公式ホームページ",
-    "Message from Governor Koike": "知事からのメッセージ",
+    "Message from Governor Suzuki": "知事からのメッセージ",
     "About us": "当サイトについて"
   }
 }
@@ -138,9 +138,9 @@ export default {
             'https://www.seisakukikaku.metro.tokyo.lg.jp/information/event02.html'
         },
         {
-          title: this.$t('Message from Governor Koike'),
+          title: this.$t('Message from Governor Suzuki'),
           link:
-            'https://www.metro.tokyo.lg.jp/tosei/governor/governor/katsudo/2020/03/03_00.html'
+            'http://www.pref.hokkaido.lg.jp/ss/tkk/hodo/pressconference/r1.htm'
         },
         {
           title: this.$t('About us'),
