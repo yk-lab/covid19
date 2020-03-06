@@ -8,7 +8,7 @@ module.exports = {
     htmlAttrs: {
       prefix: 'og: http://ogp.me/ns#'
     },
-    titleTemplate: '%s | 北海道 新型コロナウイルス対策サイト',
+    titleTemplate: '%s | 北海道 新型コロナウイルスまとめサイト',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -20,7 +20,7 @@ module.exports = {
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: '北海道 新型コロナウイルス対策サイト'
+        content: '北海道 新型コロナウイルスまとめサイト'
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
@@ -31,7 +31,7 @@ module.exports = {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: '北海道 新型コロナウイルス対策サイト'
+        content: '北海道 新型コロナウイルスまとめサイト'
       },
       {
         hid: 'og:description',
@@ -132,7 +132,7 @@ module.exports = {
   //   }
   // },
   manifest: {
-    "name": "北海道 新型コロナウイルス対策サイト",
+    "name": "北海道 新型コロナウイルスまとめサイト",
     "theme_color": "#00a040",
     "background_color": "#ffffff",
     "display": "standalone",
